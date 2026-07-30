@@ -1,0 +1,22 @@
+{
+  "product": "TARGET_PRODUCT",
+  "github_repo": "OWNER/REPO",
+  "github_search_query": "TARGET_KEYWORD",
+  "hf_official_org": "OFFICIAL_ORG",
+  "keywords": ["TARGET", "TARGET-ALT"],
+  "context_words": ["context word 1", "context word 2"],
+  "strong_keywords": ["target keyword variant 1", "target keyword variant 2"],
+  "weak_keywords": ["vendor", "brand"],
+  "hn_queries": ["target"],
+  "reddit_subreddits": [
+    "StableDiffusion", "LocalLLaMA", "MachineLearning", "singularity",
+    "artificial", "computervision", "learnmachinelearning", "OpenAI",
+    "ArtificialInteligence", "aivideo", "comfyui", "SDtechsupport",
+    "imagegeneration", "generative", "deeplearning", "LanguageTechnology",
+    "mlscaling", "LocalLLM", "huggingface", "ChatGPT", "Bard", "ClaudeAI", "aiArt"
+  ],
+  "reddit_search_queries": ["target"],
+  "hf_models": ["OFFICIAL_ORG/MODEL"],
+  "hf_search_queries": ["target"],
+  "competitors": ["CompetitorA", "CompetitorB", "CompetitorC"]
+}

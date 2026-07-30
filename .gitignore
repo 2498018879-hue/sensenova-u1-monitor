@@ -1,0 +1,13 @@
+# 敏感凭据（切勿提交）
+.env
+
+# 运行时产物
+archive/
+db/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# 真实监测配置（含目标产品关键词，勿提交；用 config.example.json 作模板）
+config.json
